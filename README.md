@@ -43,7 +43,7 @@ I design digital content including banners, logos, and UI mockups using tools li
 
 ## 📫 Let’s Connect!
 
-Reach out via GitHub or drop me a message on [LinkedIn](#) *(Add your real LinkedIn or portfolio site here)*
+Reach out via GitHub or drop me a message on [LinkedIn](www.linkedin.com/in/jormielagua) *(Add your real LinkedIn or portfolio site here)*
 
 ---
 
