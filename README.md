@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jormiee
+# 👋 Hi there, I'm Jormie
 
 I'm an aspiring **Full-Stack Web Developer** and currently working as an **IT Specialist Intern**. I build dynamic websites and craft clean, engaging UI through both code and design. I'm also passionate about graphic design and create digital artwork and UI layouts.
 
@@ -6,7 +6,7 @@ I'm an aspiring **Full-Stack Web Developer** and currently working as an **IT Sp
 
 ## 🧰 Tech Stack & Tools
 
-<p align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
@@ -18,7 +18,7 @@ I'm an aspiring **Full-Stack Web Developer** and currently working as an **IT Sp
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
-</p>
+</div>
 
 ---
 
