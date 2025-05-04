@@ -1,4 +1,4 @@
-👋 Hello, I'm Jormie] — Entry-Level Web Developer & IT Specialist Intern
+👋 Hello, I'm Jormie — Entry-Level Web Developer & IT Specialist Intern
 🌐 I'm an aspiring Full-Stack Web Developer with hands-on experience in building dynamic websites and designing visual assets. Currently, I'm interning as an IT Specialist, expanding my understanding of infrastructure, support, and systems management.
 
 💻 Tech Stack
