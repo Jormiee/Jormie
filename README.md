@@ -7,19 +7,14 @@ I'm an aspiring **Full-Stack Web Developer** and currently working as an **IT Sp
 ## 🧰 Tech Stack & Tools
 
 <p align="left">
-  <!-- Web Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel"/>
+  <img src="https://laravel.com/img/logomark.min.svg" width="40" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  
-  <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-
-  <!-- Social -->
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
@@ -29,7 +24,7 @@ I'm an aspiring **Full-Stack Web Developer** and currently working as an **IT Sp
 
 ## 🌱 Currently Learning
 
-- Deeper Laravel & MySQL development  
+- UI/UX Design
 - JavaScript frameworks (Vue, React)  
 - Real-world IT infrastructure through internship experience
 
