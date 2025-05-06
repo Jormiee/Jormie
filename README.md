@@ -46,7 +46,8 @@ I use **Photoshop** for digital art and illustrations, and **Figma** for layout 
 
 ## 📫 Let’s Connect!
 
-Feel free to reach out here or connect with me on [LinkedIn](www.linkedin.com/in/jormielagua)
+Feel free to reach out here or connect with me on [LinkedIn](https://www.linkedin.com/in/jormielagua)
+
 
 ---
 
